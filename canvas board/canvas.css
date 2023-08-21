@@ -1,0 +1,36 @@
+header{
+    font-family: 'Concert One';
+    text-align: center;
+    color: brown;
+    font-size: xx-large;
+    
+}
+body{
+    color: white;
+    background-color: black; 
+    
+}
+
+h2{
+    background-color: aliceblue;
+    color: black;
+    font-size: small;
+    margin-top: 20px;
+    text-align: center;
+}
+
+canvas{
+    width: 1100px;
+    height: 500px;
+    background-color: white;
+    color: white;
+    margin-left: 10% ;
+}
+
+#can{
+    border: 20px rgb(106, 247, 93);
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+}
